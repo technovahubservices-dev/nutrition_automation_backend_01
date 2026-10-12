@@ -4,6 +4,8 @@
 !.env.example
 
 uploads/
+scripts/resetAdminCredentials.once.js
+scripts/verifyAdminLogin.once.js
 logs/
 *.log
 
